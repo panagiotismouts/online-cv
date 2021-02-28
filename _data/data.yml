@@ -77,70 +77,25 @@ experiences:
       company:
       details: |
         With several commits, me and my team helped in improving the online course book over a subject in our 3rd semester.
-projects:
-    title: 
-    intro: >
-    assignments:
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-publications:
-    title:
-    intro: |
-    papers:
-      - title:
-        link:
-        authors:
-        conference:
-
-      - title:
-        link:
-        authors:
-        conference:
-
-      - title:
-        link:
-        authors:
-        conference:
-
+        
 skills:
-    title:
+    title: Programming Skills e.t.c.
 
     toolset:
-      - name:
-        level:
+      - name: C
+        level: 50%
 
-      - name:
-        level:
+      - name: Python
+        level: 70%
 
-      - name:
-        level:
+      - name: C++
+        level: 65%
 
-      - name:
-        level:
+      - name: Oracle SQL
+        level: 40%
 
-      - name:
-        level:
+      - name: MySQL
+        level: 30%
 
-      - name:
-        level:
-
-footer: >
-   
+      - name: Linux Basic Commands
+        level: 95%
