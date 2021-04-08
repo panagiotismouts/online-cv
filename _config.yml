@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Moutsiounas Oanagiotis
+title: Moutsiounas Panagiotis
 url: 'https://panagiotismouts.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
