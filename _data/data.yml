@@ -32,17 +32,14 @@ sidebar:
       - idiom: French
         level: A2
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Gaming
         link: 
 
-      - item: Calisthenics
+      - item: Fast Learning
         link:
 
-      - item: Learning new languages
+      - item: Learning new programming languages
         link:
 
 career-profile:
@@ -52,26 +49,23 @@ career-profile:
       of Informatics, based at Corfu, Greece. I was born in the town of Kozani, at 31/3/2000 and I always
       had an interest in discovering new things. I started programming at the age of 17 and I really enjoyed
       it, thus coming to the beautiful island of Corfu to take my programming skills further. I also enjoy learning
-      new languages, thus currently exploring the beautiful language of French, hoping to be a full time Telecommunications
-      and Network Engineer, in the exquisite country of France.
+      new languages, hoping that one dayI can become a full time Front End Web Developer.
 education:
-    - degree: Undergraduate Student, TBN Network and Telecommunications Engineer
+    - degree: Undergraduate Student.
       university: Ionian University
       time: 2018 - present
       details: |
        In the Department of Informatics, so far, I was taught into many interesting things and skills, including 
        usage of programming languages of C, C++, Python, Java and other useful languages such as MySQL, Oracle SQL, PL SQL
-       HTML4, HTML5 CSS, PHP. Currently, I am being taught the struct based logical pseudoprogramming language of CLIPS, the
-       information retrieval and predicting program called KNIME, the really useful docker engine for Windows systems and the
-       exploring-worthy environment of Git and Github.
+       HTML4, HTML5 CSS, PHP. Currently, I am learning the basics of front end web developing tools, CSS, Javascript and the useful docker engine for Windows systems.
 experiences:
     - role: Developer of "Retro Station"
-      time: 2021 - Present
+      time: 2021
       company:
       details: |
-        With the help of some trustworthy colleagues, we are creating a game using Python 3.8 called "Retro Station". It is
-        a game in which will be included a number of retro mini-games, coded for a subject on learning the Python programming
-        language.
+        With the help of some trustworthy colleagues, we are created a game using Python 3.8 called "Retro Station". It is
+        a game which includes a number of retro mini-games, coded for a subject on learning the Python programming
+        language. Link : https://github.com/panagiotismouts/uni-projects/tree/master/project%20efarmosmenos%20progammatismos%20me%20python
     - role: Helper in improving the subject book of our professor "Konstantinos Chorianopoulos", called "Προγραμματισμός της Διάδρασης".
       time: 2019
       company:
@@ -83,19 +77,28 @@ skills:
 
     toolset:
       - name: C
-        level: 50%
+        level: 20%
 
       - name: Python
         level: 70%
 
       - name: C++
-        level: 65%
+        level: 15%
 
       - name: Oracle SQL
-        level: 40%
+        level: 20%
 
       - name: MySQL
-        level: 30%
+        level: 20%
 
       - name: Linux Basic Commands
         level: 95%
+        
+      - name: CSS
+        level: 5%
+        
+      - name: Javascript
+        level: 5%
+        
+      - name: HTML5
+        level: 7%
