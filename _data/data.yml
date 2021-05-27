@@ -89,7 +89,7 @@ skills:
         level: 20%
 
       - name: MySQL
-        level: 20%
+        level: 40%
 
       - name: Linux Basic Commands
         level: 95%
@@ -102,3 +102,9 @@ skills:
         
       - name: HTML5
         level: 7%
+        
+      - name: Wordpress
+        level: 5%
+        
+      - name: PHP
+        level: 0%
